@@ -1,0 +1,23 @@
+{
+  "name": "OpenAI",
+  "foundedYear": 2015,
+  "industry": "Artificial Intelligence",
+  "founders": ["Elon Musk", "Sam Altman"],
+  "headquarters": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States"
+  },
+  "products": [
+    {
+      "name": "GPT-3",
+      "type": "Language Model",
+      "releaseDate": "June 2020"
+    },
+    {
+      "name": "DALL-E",
+      "type": "Image Generation Model",
+      "releaseDate": "January 2021"
+    }
+  ]
+}
